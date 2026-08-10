@@ -23,6 +23,8 @@ $RECYCLE.BIN/
 # -------------------------
 .vs/
 .vscode/
+.vscode/*.json
+.vscode/*.txt
 .idea/
 .localhistory/
 Generated\ Files/
